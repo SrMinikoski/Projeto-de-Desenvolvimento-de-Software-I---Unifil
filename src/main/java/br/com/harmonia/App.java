@@ -1,4 +1,4 @@
-Zpackage br.com.harmonia;
+package br.com.harmonia;
 
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
